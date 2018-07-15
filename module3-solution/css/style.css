@@ -1,1 +1,17 @@
+/** HEADER **/
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
 
+#main{
+	box-sizing: content-box;
+	width: 90%;
+	margin: 0px auto 0px auto;
+}
+
+#tall-section{
+	height: 1000px;
+	background-color: grey;
+}
